@@ -8,7 +8,7 @@
 	<groupId>org.ps</groupId>
 	<artifactId>j-file-helper-parent</artifactId>
 	<packaging>pom</packaging>
-	<version>1.0</version>
+	<version>1.0.0</version>
 
 	<name>${project.organization.name}: ${project.artifactId}</name>
 	<url>http://jfilehelpers.com</url>

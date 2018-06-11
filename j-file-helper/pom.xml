@@ -7,7 +7,7 @@
   <parent>
     <groupId>org.ps</groupId>
     <artifactId>j-file-helper-parent</artifactId>
-    <version>1.0</version>
+    <version>1.0.0</version>
   </parent>
 
   <artifactId>j-file-helper</artifactId>
