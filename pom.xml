@@ -11,13 +11,43 @@
 	<version>1.0</version>
 
 	<name>${project.organization.name}: ${project.artifactId}</name>
-	<url>http://www.ps.org/j-file-helper</url>
+	<url>http://jfilehelpers.com</url>
 	<inceptionYear>2018</inceptionYear>
+	<description>JFileHelpers is a library that automates the tedious task of parsing and creating structured text files.</description>
+
+	<licenses>
+		<license>
+			<name>MIT</name>
+			<url>https://opensource.org/licenses/MIT</url>
+			<distribution>repo</distribution>
+		</license>
+	</licenses>
+
+	<scm>
+		<connection>scm:git:git@github.com/salespaulo/jfilehelpers.git</connection>
+		<developerConnection>scm:git:git@github.com/salespaulo/jfilehelpers.git</developerConnection>
+		<url>git@github.com/salespaulo/jfilehelpers.git</url>
+	</scm>
 
 	<organization>
-		<name>ORG PS</name>
-		<url>http://www.ps.org</url>
+		<name>ORG PS - jFileHelpers</name>
 	</organization>
+
+	<developers>
+		<developer>
+			<name>Felipe Coury</name>
+			<email>felipe.coury@gmail.com</email>
+			<organization>jFileHelpers</organization>
+			<organizationUrl>https://jfilehelpers.com/</organizationUrl>
+		</developer>
+	</developers>
+
+	<contributors>
+		<contributor>
+			<name>Paulo R. A. Sales</name>
+			<email>salespaulo08@gmail.com</email>
+		</contributor>
+	</contributors>
 
 	<properties>
 		<!-- Versões do plugin -->
